@@ -35,5 +35,5 @@
     { title: '가루 엔딩', comment: '이제 숟가락으로 드세요.' }
   ];
 
-  DG.SHARE = { TITLE: '달고나 뽑기의 달인', CHALLENGE: '나는 {shape} {score}점인데, 나보다 잘할 수 있어?', URL: '' };   // URL: 공개 주소가 정해지면 여기에(비우면 지금 열린 주소)
+  DG.SHARE = { TITLE: '한번에 뽑으세요', CHALLENGE: '나는 {shape} {score}점인데, 나보다 잘할 수 있어?', URL: '' };   // URL: 공개 주소가 정해지면 여기에(비우면 지금 열린 주소)
 })();
